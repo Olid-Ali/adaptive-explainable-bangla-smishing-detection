@@ -1,6 +1,5 @@
 # Full Survey Instrument
 
-*(Reconstructed from `full_survey.xlsx` — three sheets corresponding to the three between-subjects explanation conditions: **No Explanation**, **Simple**, and **Moderate**. Questions Q1–Q5 and Q12–Q20 are identical across all three conditions; only the Q6–Q11 post-AI wording ("AI result" vs. "AI explanation") differs.)*
 
 ---
 
