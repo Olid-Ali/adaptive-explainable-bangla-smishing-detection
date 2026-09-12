@@ -24,25 +24,7 @@
 
 ---
 
-## Codebook for Disagreement with AI Agent
-### (Why participants believed the SMS was phishing despite the AI determining it was legitimate)
 
-*No disagreement free-text responses are present yet in the current dataset — this section is a placeholder to be populated once Test B / disagreement follow-up data is collected (see `UserStudyMaterials.md` §4.1, Scenario 1).*
-
-| **Code** | **Code Description** | **SubCode** | **SubCode Description** | **Freq.** | **Examples** |
-|----------|----------------------|------------|-------------------------|---------|------------|
-| *(pending data)* | | | | | |
-
----
-
-## Codebook for Disagreement with AI Agent
-### (Why participants believed the SMS was legitimate despite the AI determining it was phishing)
-
-*No disagreement free-text responses are present yet in the current dataset — this section is a placeholder to be populated once Test B / disagreement follow-up data is collected (see `UserStudyMaterials.md` §4.1, Scenario 2).*
-
-| **Code** | **Description** | **Freq.** | **Examples** |
-|----------|---------------|-----------|-------------|
-| *(pending data)* | | | |
 
 ---
 
